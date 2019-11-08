@@ -1,0 +1,7 @@
+pwa resources
+
+https://ionicframework.com/docs/v3/developer-resources/progressive-web-apps/
+
+https://developers.google.com/web/progressive-web-apps
+
+https://multimedium.be/todays/11-voordelen-van-progressive-web-apps
